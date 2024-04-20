@@ -1,0 +1,24 @@
+body {
+  background: black;
+}
+
+body, input, textarea, select {
+  font-family: 'Source Sans Pro', Arial, sans-serif;
+  color: white;
+}
+  
+.banner-container {
+  width: 100%; 
+  padding-top:10%;
+  text-align:center;
+}  
+  
+.legit-msg {
+  font-size: 75pt;
+/*   line-height: 1.5em; */
+  font-weight: bold; 
+}  
+
+.inconsequential-text {
+  color: black;
+}
